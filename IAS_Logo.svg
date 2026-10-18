@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 160" width="700" height="160" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&amp;display=swap');
+      .ias-brand-text {
+        font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 58px;
+        font-weight: 700;
+        fill: #111827;
+        letter-spacing: -0.5px;
+      }
+    </style>
+  </defs>
+
+  <!-- IAS Logomark (Black geometric IAS with Neon Green digital pixel accent #6EFF29) -->
+  <g transform="translate(10, 10) scale(0.202)">
+    <path fill="#111827" d="m782 676.1l-311.2-676.1-310.3 676.1h106.5l205.1-449.4 104 233.7h-153.9l-47.1 107.8h249.9l50.6 107.9z"/>
+    <path fill="#111827" d="m1134.2 357.3c-28.2-35.5-67.6-60.9-111.2-71.3-6.5-1.5-63.7-14.4-77.4-18.4-31.5-9.1-53.5-38.5-53.5-71.4 0-41 33-74.3 73.7-74.3 25.5 0 49.1 13.5 62.4 35l107.2-21.9c-25.4-71.4-94-120.6-169.6-120.6-99.4 0-180.2 81.6-180.2 181.8 0 83.4 54.3 155.4 132.3 175.2l3.2 0.8c10.5 2.5 44.5 10.6 76.9 18.2 20.7 5 39.5 17.1 53 34 13.7 17.4 21 38.4 21 60.7 0 4.9-0.3 9.8-1.1 15.1l-1.1 5.7c-3.8 17.7-12.4 33.9-25 47-17.3 18-40.4 28.5-65.6 29.6h-3.9c-23 0-45.4-8.4-63-23.6-5.1-4.4-9.6-9.4-13.7-14.8l-109.8 22.4c31 72.1 100.9 121.2 181.1 123.4 0.9 0 4.1 0.1 5.6 0.1 104.6 0 193.5-82.3 202.3-187.4l0.4-5.1c0.3-4.3 0.4-8.4 0.4-12.3 0-46.4-15.8-91.8-44.4-127.9z"/>
+    <path fill="#111827" d="m0 28.8v108.1 539.2h107v-539.2-108.1z"/>
+    <path fill="#6EFF29" d="m1337.8 568.2v107.9h-107v-107.9z"/>
+    <path fill="#6EFF29" d="m1231.2 352.1v107.9h213.8v216.1h107v-323.6z"/>
+  </g>
+
+  <!-- Full brand name lockup -->
+  <text x="345" y="72" class="ias-brand-text">Integral</text>
+  <text x="345" y="136" class="ias-brand-text">Ad Science</text>
+</svg>
